@@ -62,7 +62,7 @@ ua = []
  
 del ua
 """
-Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A226B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.3 Mozilla/5.0 (iPod; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/115.0.5790.84 Mobile/15E148 Safari/604.1Mozilla/5.0 (iPod touch; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/115.0 Mobile/15E148 Safari/605.1.15]
+Mozilla/5.0 (iPad; CPU OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1 Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1]
 """
  
 ua=[]
@@ -97,7 +97,7 @@ def Hxw_Main():
     os.system("clear")
     print(logo)
     print(f"{oo(1)}File Cloning")
-    print(f"{oo(2)}Pak Random Cloning")
+    print(f"{oo(2)} Random Cloning")
     print(f"{oo(3)}Gmail Cloning")  
     print(f"{oo(4)}Create File")
     print(f"{oo(0)}Exit")
